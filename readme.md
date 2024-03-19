@@ -1,6 +1,8 @@
 # Project name
 
-Sol Juke Box
+Sol Juke Box  
+Project Video: https://www.youtube.com/watch?v=BeWSIOkUdq0  
+Project Presantation: https://docs.google.com/presentation/d/1qqUYiTDj8LmgWg5g9Xm1-Lzc21sekhG2LFL7N-7xWFo/edit?usp=sharing
 
 # Who are you
 
